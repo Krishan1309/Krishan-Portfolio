@@ -19,7 +19,7 @@ html, body {
 }
 
 .header {
-    background-image: url("Images/Background1.png");
+    background-image: url("Images/Background1.jpg");
     background-size: cover;
     height: max-content;
     padding-top: 4rem;
@@ -273,7 +273,7 @@ h1 {
 
                 /* about me section */
 .about {
-    background-image: url("Images/ChatGPT Image Sep 4, 2025, 12_33_46 AM.png");
+    background-image: url("Images/Exp.png");
     background-size: cover;
     padding: 2rem;
     border-top: 0.5px solid white;
@@ -435,7 +435,7 @@ h1 {
                 /* about sec css ends here */
 
 .edu_container {
-    background-image: url("Images/Edu bg.png");
+    background-image: url("Images/Edu bg.jpg");
     background-size: cover;
     box-shadow: 0px 2px 15px #0066ff;
     border-top: 0.5px solid white;
@@ -547,7 +547,7 @@ h1 {
 /* skills css starts from here */
 
 .skill_container {
-    background-image: url("Images//skills sec bg (1).png");
+    background-image: url("Images/skills sec bg (1).jpg");
     background-size: cover;
     box-shadow: 0px 2px 15px #0066ff;
     border-top: 0.5px solid white;
@@ -725,7 +725,7 @@ h1 {
 /* Experience css starts from here */
 
 .experience_container {
-    background-image: url("Images/Gemini_Generated_Image_hrzzhphrzzhphrzz.png");
+    background-image: url("Images/Exp.webp");
     background-size: cover;
     box-shadow: 0px 2px 15px #0066ff;
     border-top: 0.5px solid white;
@@ -758,7 +758,7 @@ h1 {
 /* Projects css starts from here */
 
 .project_container {
-    background-image: url("Images/ChatGPT Image Sep 4, 2025, 12_33_46 AM.png");
+    background-image: url("Images/Project container.jpg");
     background-size: cover;
     box-shadow: 0px 2px 15px #0066ff;
     border-top: 0.5px solid white;
@@ -805,7 +805,7 @@ h1 {
                /* contact me css starts from here */
 
 .Contact_me {
-    background-image: url("Images/Background1.png");
+    background-image: url("Images/Background1.jpg");
     background-size: cover;
     padding-bottom: 3rem;
     border-top: 0.5px solid white;
@@ -990,7 +990,7 @@ form button {
 }
 
 footer {
-  background-image: url("Images/skills sec bg (1).png");
+  background-image: url("Images/skills sec bg (1).jpg");
   text-align: center;
   padding: 1.25rem;
   font-size: 1rem;
