@@ -26,3 +26,9 @@ for (let link of links) {
     activeLink = link;
   });
 }
+
+let certificateImg = document.querySelector(".certificate_card");
+
+certificateImg.addEventListener("click", ()=>{
+  console.log("hello world")
+})
