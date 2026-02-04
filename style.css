@@ -901,9 +901,23 @@ h1 {
     color: white;
 }
 
+.certificate_card:hover .certificate_img img {
+  transform: scale(1.1);
+}
+
 .certificate_img {
   position: relative;
   transition: 0.3s ease;
+   border-top-left-radius: 1rem; 
+  border-top-right-radius: 1rem;
+  overflow: hidden;
+}
+
+.certificate_img img:hover {
+  transform: translateY(-20px);
+  box-shadow: 0px -2px 15px #0066ff;
+  cursor: pointer;
+  border-top: 3px solid white;
 }
 
 .certificate_img button {
@@ -917,14 +931,6 @@ h1 {
   background: linear-gradient(145deg, #0066ff, #cc00cc);
   color: #eaeaea;
   border: 1px solid rgba(7, 0, 0, 0.7);
-}
-
-.certificate_img:hover {
-  transform: translateY(-20px);
-  border-top: 3px solid white;
-  box-shadow: 0px -2px 15px #0066ff;
-  cursor: pointer;
-  border-radius: 1rem;
 }
 
 .certificate_img img {
