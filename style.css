@@ -779,7 +779,7 @@ h1 {
 .project_card {
     width: 600px;
     min-height: 420px;
-    max-height: 500px;
+    max-height: 530px;
     border: 1px solid white;
     box-shadow: 0px 2px 15px #0066ff;
     background: rgba(0, 0, 0, 0.503);
@@ -890,7 +890,7 @@ h1 {
 .certificate_card {
     width: 400px;
     min-height: 480px;
-    max-height: 500px;
+    max-height: 530px;
     border: 1px solid white;
     box-shadow: 0px 2px 15px #0066ff;
     background: rgba(0, 0, 0, 0.503);
