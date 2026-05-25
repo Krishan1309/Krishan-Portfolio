@@ -62,5 +62,5 @@ No installation required.
 
 
 ## Contact Information
-GitHub: https://github.com/your-username  
-LinkedIn: https://www.linkedin.com/in/your-linkedin
+GitHub: https://github.com/Krishan1309  
+LinkedIn: https://www.linkedin.com/in/Krishan1309
