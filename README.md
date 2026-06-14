@@ -62,5 +62,10 @@ No installation required.
 
 
 ## Contact Information
+<<<<<<< HEAD
 GitHub: https://github.com/Krishan1309 
 LinkedIn: https://www.linkedin.com/in/Krishan1309
+=======
+GitHub: https://github.com/Krishan1309  
+LinkedIn: https://www.linkedin.com/in/Krishanraj1309
+>>>>>>> a2f5c94314d5a60cb2465a00d514480e58c18349
